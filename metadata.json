@@ -1,0 +1,7 @@
+{
+  "name": "LexiMind AI - 专业法律智能咨询平台",
+  "description": "基于双引擎推理（含深度思考模式）的法律辅助系统，支持PDF合同、法律文书及案件图片深度解析，提供权威、严谨的法律解答与执行方案。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
